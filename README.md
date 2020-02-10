@@ -15,8 +15,8 @@ The project cycles through states to simulate traffic light at a four way inters
 The firmware was designed for the Texas Instrument TMC123GHPM Launchpad Development Board. The following pin configuration is used to setup the project.
 
 Development Environment:
-   Keil uVision 4 (Not fully supported with Keil uVision 5)
-   ARMCC 4.X and above
+   * Keil uVision 4 (Not fully supported with Keil uVision 5)
+   * ARMCC 4.X and above
 
 ```
 East facing red light connected to PB5											
