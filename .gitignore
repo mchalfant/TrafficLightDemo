@@ -1,0 +1,15 @@
+startup.o
+systick.crf
+systick.d
+systick.o
+TableTrafficLight.axf
+TableTrafficLight.build_log.htm
+tabletrafficlight.crf
+TableTrafficLight.lnp
+tabletrafficlight.o
+TableTrafficLight.uvgui
+TableTrafficLight.uvgui.Mike
+TableTrafficLight.uvgui_Mike.bak
+TableTrafficLight.uvopt
+TableTrafficLight_uvopt.bak
+TableTrafficLight_uvproj.bak
